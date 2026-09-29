@@ -1,0 +1,95 @@
+
+Fifth Edition
+Lecture
+MUST Read
+Suggested Reading
+Suggested Problems
+1- Intro and Performance
+
+All of chapter 1 except for the ones mentioned in suggested reading
+
+1.5, 1.7, 1.9
+
+All in chapter 1 except for 1.8 and 1.10
+
+2- ISA
+
+2.1 to 2.10
+
+2.20
+
+The rest of chapter 2
+
+2.1 to 2.28
+
+2.46 and 2.47
+
+3- Pipelining I
+
+4.1 to 4.5
+
+Chapter 3
+
+ 
+
+ 
+
+4- Pipelining II
+
+4.6
+
+4.8
+
+4.10
+
+4.14 and 4.15
+
+4.7
+
+4.11 and 4.12
+
+4.1 to 4.5
+
+4.8 to 4.10
+
+4.15 and 4.16
+
+5- Memory I
+
+5.1 to 5.4
+
+5.8
+
+5.10
+
+5.1 to 5.7
+
+5.13
+
+6- Memory II
+
+5.7
+
+5.15 and 5.16
+
+5.11
+
+7- Multiprocessing
+
+6.1 to 6.5
+
+6.7
+
+6.1 to 6.3
+
+6.6 to 6.9
+
+6.19 and 6.20
+
+8- GPUs
+
+6.6
+
+6.13 and 6.14
+
+ 
